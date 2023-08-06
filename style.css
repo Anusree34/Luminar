@@ -1,0 +1,132 @@
+
+ul{
+    font-size: 20px;
+    padding-right: 50px;
+}
+ul li a:hover{
+    text-decoration: underline;
+    color:  #6D1D8E;
+  }
+  ul li:hover{
+    color: #6D1D8E;
+  }
+  .carousel-inner{
+    height: 700px;
+  }
+ #para{
+    padding-left: 200px;
+ }
+ #image{
+    justify-content: center;
+    text-align: center;
+ }
+ .btn{
+    background-color: #6D1D8E;
+    color: white;
+ }
+ #pics img{
+    border-radius: 10px;
+ }
+ #pics #img0{
+    position: relative;
+    left: 500px;
+ }
+ #pics #img1{
+    position: relative;
+    left:520px;
+    top: 110px;
+ }
+ #pics #img2{
+    position: relative;
+    left:4px ;
+    top: 210px;
+ }
+ #pics #img3{
+    position: relative;
+    left: 670px;
+    top: 120px;
+
+ }
+ #para2{
+    padding-left: 150px;
+    padding-top: 100px;
+    width: 700px;
+ }
+ #container1{
+   height: 1000px;
+   background-color: #6D1D8E;
+ }
+ .box2{
+   width: 585px;
+   height: 436px;
+   font-weight: 100;
+   line-height: 35px;
+   position: relative;
+   left: 200px;
+   top: 200px;
+   
+ }
+ .box3, .box4, .box5{
+   height: 430px;
+   width: 430px;
+   background-color: rgba(227, 205, 229, 0.905);
+   border-radius: 10px;
+   margin: 10px;
+   position: relative;
+}
+.box3{
+  bottom: 400px;
+   left: 900px;
+   
+}
+.box4{
+   left: 900px;
+   bottom: 400px;
+}
+.box5{
+   bottom: 840px;
+   left: 460px;
+}
+section{
+  text-align: center;
+}
+section .container img{
+   height: 400px;
+   width: 400px;
+   display: inline;
+   margin: 10px;
+}
+
+.instafeed{
+   overflow-y: scroll;
+   scroll-behavior: smooth;
+   height: 50rem;
+}
+#sect img{
+   height: 40px;
+   width: 40px;
+   vertical-align: middle;
+   margin-left:150px;
+   
+}
+#sect #cert{
+   margin-top: 80px;
+}
+#sect .card:hover {
+   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.7);
+ }
+ iframe{
+   margin-left: 300px;
+ }
+ .join-now{
+   width: 100%;
+   height: 600px;
+   background-image: url('https://www.luminartechnolab.com/static/media/pexels-kindel-media-7054785.47b27e7d.png');
+   background-position: 80%;
+ }
+ .footer .container .row img{
+   height: 100px;
+   width: 200px;
+ }
+ 
+ 
